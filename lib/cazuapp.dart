@@ -7,4 +7,10 @@
   Future<void> pingServer() async {
     log('First ping');
 
+
+    if (!result!.ok()) {
+      await instance.auth.nointernet();
+      return;
+    }
+
 }
