@@ -34,9 +34,9 @@ For detailed insights, visit our [Documentation Site](https://docs.cazuapp.dev/)
 Set up your development environment to contribute to the Driver App. Ensure you have these prerequisites:
 
 - **CazuApp API server** - Backend support for the Driver App.
-- **Flutter** - The UI toolkit for crafting natively compiled applications.
+- **Flutter** 
 
-Start by checking our [Installation Guide](https://docs.cazuapp.dev/api/core_apps/install).
+Start by checking our [Installation Guide](https://docs.cazuapp.dev/core_apps/install).
 
 ### Contribute to Our Community
 
