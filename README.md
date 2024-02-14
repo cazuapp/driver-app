@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-# Welcome to CazuApp Driver App
+### Welcome to CazuApp Driver App
 
 **CazuApp Driver App** is an integral part of CazuApp's open-source delivery platform, focused on providing drivers with a streamlined and intuitive experience. This app is designed to optimize delivery routes, track earnings, and manage orders efficiently.
 
@@ -29,7 +29,7 @@ Discover more on our [GitHub repositories](https://github.com/cazuapp)!
 
 For detailed insights, visit our [Documentation Site](https://docs.cazuapp.dev/).
 
-## Getting Started with the Driver App
+### Getting Started with the Driver App
 
 Set up your development environment to contribute to the Driver App. Ensure you have these prerequisites:
 
