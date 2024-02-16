@@ -3,8 +3,6 @@
 </p>
 
 
-### What does your driver app look like?
-
 <table>
     <tr style="border: 0px;">
     <td align="center" style="border:0px;">
